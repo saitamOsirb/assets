@@ -6,14 +6,16 @@
       "id": "game-assets",
       "version": "1",
       "url": "https://github.com/saitamOsirb/assets/releases/download/v1/game-assets-v1.zip",
-      "sha256": "HASH_GAME_ASSETS",
+      "sha256": "9f42c989d3355b32a0260e1183dff8f7f86f2780a7e9da9bd20cb98dc8916083",
+      "size": 559720286,
       "required": true
     },
     {
       "id": "sounds",
       "version": "1",
       "url": "https://github.com/saitamOsirb/assets/releases/download/v1/sounds-v1.zip",
-      "sha256": "HASH_SOUNDS",
+      "sha256": "7df22319ef44b0ec30d59b4368706a58870faee2371e3adab8ffc7deb8004d6b",
+      "size": 137980594,
       "required": true
     }
   ]
