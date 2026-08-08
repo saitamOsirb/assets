@@ -1,5 +1,20 @@
 {
   "schemaVersion": 1,
   "assetVersion": "1",
-  "packages": []
+  "packages": [
+    {
+      "id": "game-assets",
+      "version": "1",
+      "url": "https://github.com/saitamOsirb/assets/releases/download/v1/game-assets-v1.zip",
+      "sha256": "HASH_GAME_ASSETS",
+      "required": true
+    },
+    {
+      "id": "sounds",
+      "version": "1",
+      "url": "https://github.com/saitamOsirb/assets/releases/download/v1/sounds-v1.zip",
+      "sha256": "HASH_SOUNDS",
+      "required": true
+    }
+  ]
 }
